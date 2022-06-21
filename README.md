@@ -31,8 +31,8 @@ Display the results.
 </br>
 
 # PROGRAM:
-## Developed By: H.Dhayanitha
-## Resiter Number:212220230010
+## Developed By: P.Sanjay
+## Resiter Number:212220230042
 
 # Load the necessary packages
 ```
