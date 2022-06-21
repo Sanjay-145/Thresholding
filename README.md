@@ -32,7 +32,7 @@ Display the results.
 
 # PROGRAM:
 ## Developed By: P.Sanjay
-## Resiter Number:212220230042
+## Register Number:212220230042
 
 # Load the necessary packages
 ```
